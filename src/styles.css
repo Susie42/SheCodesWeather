@@ -1,0 +1,72 @@
+h1 {
+  color: rgb(65, 126, 240);
+  vertical-align: top;
+}
+
+h2 {
+  color: rgb(65, 126, 240);
+}
+
+.card {
+  margin-top: 50px;
+}
+
+.btn {
+  display: inline;
+  background-color: teal;
+  border-color: teal;
+  transition: all 200ms ease-in-out;
+}
+
+.btn:hover {
+  background-color: white;
+  color: teal;
+  border-color: teal;
+  cursor: pointer;
+}
+
+.degrees {
+  font-size: 16px;
+  vertical-align: super;
+
+  transition: all 200ms ease-in-out;
+}
+
+.degrees:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.temperature {
+}
+
+.weather-current {
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+
+.weather-details {
+  font-size: 13px;
+}
+
+.days {
+  text-align: center;
+  font-size: 18px;
+}
+
+.weather-icons {
+  text-align: center;
+  font-size: 35px;
+}
+
+.temp {
+  text-align: center;
+  color: rgb(65, 126, 240);
+  font-size: 14px;
+}
+
+.byline {
+  display: block;
+  font-size: 12px;
+  margin-left: 10px;
+}
